@@ -24,7 +24,7 @@
 
 ## 🖼️ Full Dashboard Overview
 
-![IBM HR Analytics Dashboard](IBM_Dashboard.png)
+![IBM HR Analytics Dashboard](Images/IBM_Dashboard.png)
 
 > *The complete dashboard — 8 interactive views in one place, powered by the IBM HR Employee Attrition dataset.*
 
@@ -47,7 +47,7 @@ This dashboard was built to answer the questions HR leaders actually care about:
 
 ### 1. 🧑‍🤝‍🧑 Gender Split in the Company
 
-![Gender in the Company](Gender_in_the_Company.png)
+![Gender in the Company](Images/Gender_in_the_Company.png)
 
 The workforce skews **60% male and 40% female** — a notable gap that raises questions about representation, especially in senior roles. Cross-referencing this with job roles and compensation helps surface whether the gap is structural or role-driven.
 
@@ -55,7 +55,7 @@ The workforce skews **60% male and 40% female** — a notable gap that raises qu
 
 ### 2. 💍 Gender & Marital Status Breakdown
 
-![Gender and Marital Status](Gender_and_Marital_Status.png)
+![Gender and Marital Status](Images/Gender_and_Marital_Status.png)
 
 The largest single segment is **Married Males (401 employees)**, followed closely by **Married Females (272)** and **Single Males (271)**. This treemap reveals that single employees — who tend to have fewer personal anchors — could represent a higher flight-risk group worth monitoring for attrition.
 
@@ -63,7 +63,7 @@ The largest single segment is **Married Males (401 employees)**, followed closel
 
 ### 3. 👔 Job Role Distribution by Gender
 
-![Job Role and Gender](Job_Role_and_Gender.png)
+![Job Role and Gender](Images/Job_Role_and_Gender.png)
 
 Across every job role, males outnumber females. The gap is sharpest in **Laboratory Technician** (174M vs 85F) and **Sales Executive** (194M vs 132F). Notably, **Research Scientist** is the most populous role overall with 292 combined employees — making retention there a high-priority concern.
 
@@ -71,7 +71,7 @@ Across every job role, males outnumber females. The gap is sharpest in **Laborat
 
 ### 4. 🏗️ Total Employees by Job Role & Department
 
-![Total Employees by Job Role and Department](Total_employees_by_Job_role_and_Department.png)
+![Total Employees by Job Role and Department](Images/Total_employees_by_Job_role_and_Department.png)
 
 Research & Development dominates headcount, with **Research Scientists (292)**, **Laboratory Technicians (259)**, and **Manufacturing Directors (145)** making up the bulk. Sales Executives (326) form the single largest role company-wide. HR is the leanest department with only 63 total employees across two roles.
 
@@ -79,7 +79,7 @@ Research & Development dominates headcount, with **Research Scientists (292)**, 
 
 ### 5. 🎓 Workforce Education Profile
 
-![Total Employees by Education Field](Total_Employees_by_Education_Field.png)
+![Total Employees by Education Field](Images/Total_Employees_by_Education_Field.png)
 
 The talent pool is heavily concentrated in **Life Sciences (606)** and **Medical (464)** backgrounds — together accounting for over **73% of all employees**. This reflects IBM's R&D-heavy focus. Marketing (159) and Technical Degree (132) are the next largest pools, while Human Resources grads represent just 27 employees.
 
@@ -87,7 +87,7 @@ The talent pool is heavily concentrated in **Life Sciences (606)** and **Medical
 
 ### 6. 🎂 Average Age by Department & Job Role
 
-![Average Age by Department and Job Role](Average_Age_by_Department_and_Job_Role.png)
+![Average Age by Department and Job Role](Images/Average_Age_by_Department_and_Job_Role.png)
 
 **Managers are the most senior employees** across all departments, averaging 47–50 years. In contrast, **Research Scientists (avg. ~34)** and **Laboratory Technicians (~34)** are among the youngest cohorts — which may partly explain higher attrition in those roles. Sales Representatives are the youngest at around **30 years old**.
 
@@ -95,7 +95,7 @@ The talent pool is heavily concentrated in **Life Sciences (606)** and **Medical
 
 ### 7. 💰 Average Monthly Income by Role & Department
 
-![Average Monthly Income](Average_Monthly_Income.png)
+![Average Monthly Income](Images/Average_Monthly_Income.png)
 
 Compensation follows a steep hierarchy:
 
@@ -112,7 +112,7 @@ The **5x income gap** between entry-level and managerial roles is a critical att
 
 ### 8. 🏢 Career Mobility — Total Companies Worked For
 
-![Total Companies Worked For](Total_Companies_worked_for.png)
+![Total Companies Worked For](Images/Total_Companies_worked_for.png)
 
 Most employees have worked at **1–2 companies** before IBM, suggesting relatively stable career histories. The sharp drop-off after company #2 holds for both genders. However, employees with experience at **6–9 companies** still exist in meaningful numbers — these serial job-changers may warrant targeted retention strategies.
 
@@ -204,7 +204,7 @@ IBM-HR-Analytics-Dashboard/
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/nidhishkamboj/IBM-HR-Analytics-Dashboard.git
+git clone https://github.com/nidhishkamboj/IBM-HR-ANALYTICS-DASHBOARD.git
 
 # Step 2: Open the dashboard
 # → Launch Tableau Desktop or Tableau Public
@@ -236,6 +236,7 @@ git clone https://github.com/nidhishkamboj/IBM-HR-Analytics-Dashboard.git
 
 *If this project helped you or sparked ideas, drop a ⭐ — it means a lot!*
 
-**© 2024 Nidhish Kamboj**
+**© 2025 Nidhish Kamboj**
 
 </div>
+
